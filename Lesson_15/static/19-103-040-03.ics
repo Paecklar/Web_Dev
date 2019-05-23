@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+
+DTSTART:20190923T063000Z
+
+DTEND:20190925T143000Z
+
+LOCATION:TÜV AUSTRIA Technology & Innovation Center Wien, Deutschstraße 10, 1230 Wien
+
+TRANSP: OPAQUE
+
+SEQUENCE:0
+
+UID:553270948
+
+DTSTAMP:20190511T060206Z
+
+SUMMARY:Ausbildung zum/r Hubstaplerfahrer/in
+
+DESCRIPTION:Jeder der einen Stapler bedient, muss über den entsprechenden Nachweis der Fachkenntnis (Staplerführerausweis) verfügen. \n\nDie Inhalte entsprechen der Fachkenntnisnachweis-Verordung. Diese werden Ihnen mit Hinweisen und Tipps, Filmsequenzen und Beispielen nahe gebracht. Für die Praxis steht ein Gas-Gabelstapler zur Verfügung.\n\n
+
+PRIORITY:5
+
+CLASS:PUBLIC
+
+END:VEVENT
+
+END:VCALENDAR

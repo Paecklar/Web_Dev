@@ -1,0 +1,66 @@
+.box {
+
+    height: 100px;
+    width: 300px;
+    background-color: red;
+
+
+}
+
+#erstebox {
+    background-color: blue;
+    margin: 50px;
+}
+
+#zweitebox {
+
+    width: 500px;
+    background-color: green;
+    padding: 50px;
+}
+
+#drittebox {
+
+    height: 200px;
+    background-color: grey;
+    border: 3px solid black;
+
+}
+
+#box_4 {
+
+    background-color: blue;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    z-index: 10;
+}
+
+#box_5 {
+
+    position: relative;
+    top: 400px;
+    left: 50px;
+    <!-- vorsicht mit relative!! -->
+    background-color: green;
+
+}
+
+#box_6 {
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    background-color: grey;
+}
+
+#container2 {
+
+    margin: 200px 0px 50px;
+}
+
+.inline_text {
+
+    display:inline;
+}

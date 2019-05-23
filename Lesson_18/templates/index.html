@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Datenbankbeispiel</title>
+</head>
+<body>
+ <p>Das ist meine Datenbank</p>
+
+    {% if user %}
+    <h1>Hello {{user.name}}</h1>
+    <a href="/logout">Logout</a>
+    {% else %}
+        <form method="post" action="/login">
+            <input type="text" name="user-name" placeholder="Gib deinen Namen ein"><br>
+            <input type="email" name="user-email" placeholder="Gib deine Emailadresse ein"><br>
+            <button>Submit</button>
+        </form>
+    {% endif %}
+
+</body>
+</html>

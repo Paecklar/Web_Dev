@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//CONCEPT Data Systems//VAMA MIMEDIR//EN
+VERSION:2.0
+NAME:Ausbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)
+X-WR-CALNAME:Ausbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)
+BEGIN:VEVENT
+DTSTART:20190603T060000Z
+DTEND:20190603T150000Z
+SUMMARY:Ausbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)
+DESCRIPTION:Veranstaltung:\nAusbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)\n VANR: 95215338\nGegenstand: Theorie/Praxis/Übungen\nTrainer: Martin Mandl \nRaum:  - \nGruppe:  - \n 
+CLASS:BUSINESS
+CATEGORIES:WIFI
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20190604T060000Z
+DTEND:20190604T150000Z
+SUMMARY:Ausbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)
+DESCRIPTION:Veranstaltung:\nAusbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)\n VANR: 95215338\nGegenstand: Theorie/Praxis/Übungen\nTrainer: Martin Mandl \nRaum:  - \nGruppe:  - \n 
+CLASS:BUSINESS
+CATEGORIES:WIFI
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20190605T060000Z
+DTEND:20190605T130000Z
+SUMMARY:Ausbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)
+DESCRIPTION:Veranstaltung:\nAusbildung zum/zur  Hubstaplerfahrer/-in  (in deutscher Sprache)\n VANR: 95215338\nGegenstand: Theorie/Praxis/Übungen\nTrainer: Martin Mandl \nRaum:  - \nGruppe:  - \n 
+CLASS:BUSINESS
+CATEGORIES:WIFI
+END:VEVENT
+
+END:VCALENDAR

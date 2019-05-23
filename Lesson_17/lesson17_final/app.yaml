@@ -1,0 +1,11 @@
+runtime: python37
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: auto
+
+# add this if you want to use Datastore instead of the Firestore
+env_variables:
+  GAE_DATABASE: "datastore"

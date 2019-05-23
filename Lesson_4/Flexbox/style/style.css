@@ -1,0 +1,45 @@
+/*
+man kann eine media query schreiben. die sagt, wenn px grösse von sowieso überschritten wird, dann nutze die container
+formatierung
+
+@media(min-width:768px){
+
+    .container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+}
+   */
+
+
+.container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+
+    width: 33%;
+}
+
+#main   {
+
+   /* flex: 2;*/
+
+}
+
+#right  {
+
+    /*flex: 1;*/
+
+}
+
+#left {
+
+    /*flex: 1;*/
+}

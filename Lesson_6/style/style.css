@@ -1,0 +1,29 @@
+.container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.col {
+
+    width: 33%;
+}
+
+#box_1 {
+
+    background-color: #fff;
+
+}
+
+#box_2 {
+
+    background-color: #00FF00;
+
+}
+
+#box_3 {
+
+    background-color: red;
+
+}

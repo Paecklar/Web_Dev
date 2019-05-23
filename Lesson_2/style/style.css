@@ -1,0 +1,28 @@
+html, body {
+
+    background-color: darkolivegreen;
+    margin: 50pc;
+}
+
+p {
+
+    color: red;
+
+}
+
+p strong {
+
+    color: #00FF00;
+}
+
+#hobby  {
+
+    color: blue;
+}
+
+.listelement {
+
+    color:grey;
+}
+
+/*so kommentiert man. paletton.com ist ein netter rgb picker*/
